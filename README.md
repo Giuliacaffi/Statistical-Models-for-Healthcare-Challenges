@@ -1,3 +1,17 @@
+# Statistical Models for Healthcare – Research Challenges
+
+This repository contains three independent statistical modeling projects developed within the course *Statistical Models for Healthcare Data*.  
+
+Each project addresses a real-world clinical research question using rigorous statistical methodology and reproducible Python-based analyses.
+
+The three challenges cover:
+
+- Environmental epidemiology and regression modeling  
+- Survival analysis in ophthalmology  
+- Causal inference in vaccine effectiveness research  
+
+All analyses were implemented in Python using reproducible workflows.
+
 ---
 
 # Challenge 1  
